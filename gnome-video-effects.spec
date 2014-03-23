@@ -9,6 +9,7 @@ Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-video-effects/0.4/%{name}-
 # Source0-md5:	aa0838f5be12f524ba5622e1b61d21b1
 URL:		http://live.gnome.org/GnomeVideoEffects
 BuildRequires:	gettext-devel
+BuildRequires:	intltool >= 0.40.0
 BuildRequires:	tar >= 1:1.22
 BuildRequires:	xz
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
