@@ -2,7 +2,7 @@ Summary:	Collection of GStreamer video effects
 Summary(pl.UTF-8):	Zestaw efektów wideo GStreamera
 Name:		gnome-video-effects
 Version:	0.4.1
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Libraries
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-video-effects/0.4/%{name}-%{version}.tar.xz
